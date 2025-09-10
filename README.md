@@ -5,7 +5,7 @@
 
 ---
 
-![Logo Pyxelle](https://github.com/Samanoke/Samanoke/blob/main/pyxelle-logo-slogan.png?raw=true)  
+![Logo Pyxelle](https://github.com/Pyxelle-dev/Pyxelle-dev/blob/main/pyxelle-logo-slogan.png?raw=true)  
 
 ---
 
