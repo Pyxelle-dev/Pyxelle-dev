@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Bienvenue, je suis Sabrina de Paco  
 
-<!--
-**Pyxelle-dev/Pyxelle-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Développeuse web créative en devenir – **Pyxelle**  
+✨ Explorer, coder et partager des univers uniques  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Logo Pyxelle](https://github.com/Samanoke/Samanoke/blob/main/pyxelle-logo-slogan.png?raw=true)  
+
+---
+
+### 🚀 Compétences actuelles
+- HTML • CSS • Responsive Design  
+- JavaScript (bases & intermédiaire)  
+- Tailwind CSS  
+- Figma • Design numérique  
+
+### 📌 En cours d'apprentissage
+- Git & GitHub  
+- Node.js • PHP • MySQL • Symfony  
+- Accessibilité • Animations CSS modernes  
+
+---
+
+💡 *Portfolio en préparation → bientôt en ligne sur [pyxelle.fr](https://pyxelle.fr)*
